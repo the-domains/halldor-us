@@ -1,0 +1,28 @@
+name: halldor.us
+favicon: null
+layout_spectrum: 0.06601000064983964
+typography_spectrum: 0.25699561391957104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5212724055163562
+  lightness: 0.5823595533147454
+  saturation: 0.9442818933166564
+  rhythmicContrast: 0.43669163109734654
+purpose: []
